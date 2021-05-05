@@ -1,0 +1,35 @@
+#imageTitle {
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip;
+  width: 900px;
+  margin-bottom: 30px;
+}
+
+#filtersContainer {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+#filtersContainer .block {
+  padding: 10px;
+}
+
+.votes {
+  color: white;
+}
+
+#score {
+  color: white;
+}
+
+.image_1swebtw-o_O-imageLoaded_zgbg08 {
+  width: 70% !important;
+}
+.footerCaption_2r5qf {
+  font-size: larger !important;
+}
